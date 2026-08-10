@@ -1,0 +1,9 @@
+streamlit
+google-genai
+python-dotenv
+pypdf
+sentence-transformers
+faiss-cpu
+langchain
+langchain-text-splitters
+numpy
