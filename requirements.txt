@@ -6,4 +6,5 @@ sentence-transformers
 faiss-cpu
 langchain
 langchain-text-splitters
+langchain-google-genai
 numpy
